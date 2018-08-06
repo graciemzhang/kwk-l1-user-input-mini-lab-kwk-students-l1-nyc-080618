@@ -9,8 +9,8 @@ stay = gets.chomp.capitalize  #don't forget to Capitilize the input
 
 # Do the same thing with `eats` and one last time with `nights`, capturing their text input and storing them to the respective local variable
 
-eats = gets.chomp.capitalize
-nights = gets.chomp.capitalize
+eat = gets.chomp.capitalize
+night = gets.chomp.capitalize
 
 
 # Lastly, puts it all back by interpolating these values in a string.
